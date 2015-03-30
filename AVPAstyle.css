@@ -1,0 +1,99 @@
+body {
+	background: url(http://medcitynews.com/wp-content/uploads/FreeGreatPicture.com-11326-red-curtain-curtain.jpg) repeat-x;
+	background-repeat: repeat;
+	background-size: 100%;
+	height: 4500px;
+	border-width:2000px;
+	font-family: 'Maven Pro';
+}
+
+h1 {
+	color: white;
+	font-size:75px;
+	font-style: Comic Sans;
+}
+
+h2 {
+	color:pink;
+	font-size:55px;
+	font-weight: bolder;
+	font-style: Comic Sans;
+
+}
+
+p {
+	font-size:35px;
+	font-weight: bold;
+	font-style: TRENDY;
+	border-width:35px;
+}
+
+#intro {
+	text-align: center;
+	margin-bottom: 50px;
+	background-color: red;
+}
+
+#friedchicken {
+	color:lightblue;
+}
+
+.tab {
+	color: #FB09E7;
+	font-size: 50 px;
+	font-weight: bold;
+
+}
+.tab-links{
+	color: black;
+	font-size: 30 px;
+	text-align: center;
+}
+
+#tab1 {
+	width: 100%;
+	height: 900px;
+	text-align: center;
+	background-size: 100%;
+	background-color: #F7B296;
+}
+
+#tab2 {
+	width: 100%;
+	height:750%;
+	text-align: center;
+	background-size: 170%;
+	background-color: pink;
+}
+
+#tab3 {
+	width: 100%;
+	height:750%;
+	text-align: center;
+	background-size: 170%;
+	background-color: blue;
+
+}
+
+#tab4 {
+	width: 100%;
+	height:750%;
+	text-align: center;
+	background-size: 100%;
+	background-color: yellow;
+}
+
+.totop {
+	color: white;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: right;
+
+}
+
+.moreinfo {
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: left;
+}
